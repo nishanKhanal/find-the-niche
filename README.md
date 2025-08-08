@@ -44,8 +44,6 @@ The analysis focuses on the **"Dashcam Front and Rear"** niche, using **Helium 1
 
 ---
 
-## **Dashboard Highlights**
-![E-Commerce Dashboard](Cheese_Fri-08Aug25_17.10_000.png)
 
 ### **Features**
 - **Top Products Table:** Key metrics like ASIN, BSR, review count, ratings, price, and revenue.
