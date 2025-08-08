@@ -55,8 +55,8 @@ The analysis focuses on the **"Dashcam Front and Rear"** niche, using **Helium 1
 ## **Technologies Used**
 - **Python** – Data cleaning, analysis, NLP (`pandas`, `matplotlib`, `seaborn`, `nltk`, `transformers`).
 - **Helium 10** – Amazon marketplace data export.
-- **Plotly / Matplotlib** – Data visualization.
-- **Dash / Power BI** – Dashboard creation.
+- **Matplotlib** – Data visualization.
+- **Looker Studio** – Dashboard creation.
 - **NLP Models:** `facebook/bart-large-mnli` for zero-shot classification.
 
 ---
