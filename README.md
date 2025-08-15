@@ -44,7 +44,12 @@ The analysis focuses on the **"Dashcam Front and Rear"** niche, using **Helium 1
 
 ---
 
+### **Dashboard**
+[Looker Studio Dashboard Link](https://lookerstudio.google.com/reporting/1adabf82-734d-4d69-a887-9a1213645f49)
 
+![Dashboard Screenshot](assets/dashboard_home.png) 
+
+---
 ### **Features**
 - **Top Products Table:** Key metrics like ASIN, BSR, review count, ratings, price, and revenue.
 - **Seller Country/Region Map:** Geographic distribution of revenue.
